@@ -1,1 +1,12 @@
+#用于国内小众网站直连
+# AUTHOR: 77
+# REPO: https://github.com/waitfor/go
+# UPDATED: 2023-07-29 17:25:05
+# DOMAIN: 0
+# DOMAIN-KEYWORD:0
+# DOMAIN-SUFFIX: 2
+# PROCESS-NAME: 0
+# TOTAL: 2
+DOMAIN-SUFFIX,inicoapp.com
+DOMAIN-SUFFIX,baicaio.com
 
