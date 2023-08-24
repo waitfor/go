@@ -1,12 +1,12 @@
 # NAME: Skype
 # AUTHOR: 77
 # REPO: https://github.com/waitfor/go
-# UPDATED: 2023-08-24 23:40:05
-# DOMAIN: 0
+# UPDATED: 2023-08-25 00:11:05
+# DOMAIN: 1
 # DOMAIN-KEYWORD:0
 # DOMAIN-SUFFIX: 7
 # PROCESS-NAME: 0
-# TOTAL: 7
+# TOTAL: 8
 DOMAIN-SUFFIX,skype
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skype.net
@@ -14,3 +14,5 @@ DOMAIN-SUFFIX,skypeassets.com
 DOMAIN-SUFFIX,skypeassets.net
 DOMAIN-SUFFIX,skypeforbusiness.com
 DOMAIN-SUFFIX,microsoftapp.net
+DOMAIN,browser.pipe.aria.microsoft.com
+
