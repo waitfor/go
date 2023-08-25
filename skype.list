@@ -2,11 +2,11 @@
 # AUTHOR: 77
 # REPO: https://github.com/waitfor/go
 # UPDATED: 2023-08-25 00:11:05
-# DOMAIN: 1
+# DOMAIN: 2
 # DOMAIN-KEYWORD:0
-# DOMAIN-SUFFIX: 7
+# DOMAIN-SUFFIX: 12
 # PROCESS-NAME: 0
-# TOTAL: 8
+# TOTAL: 14
 DOMAIN-SUFFIX,skype
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skype.net
@@ -15,4 +15,10 @@ DOMAIN-SUFFIX,skypeassets.net
 DOMAIN-SUFFIX,skypeforbusiness.com
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN,browser.pipe.aria.microsoft.com
-
+DOMAIN,www.msftconnecttest.com
+#以下是询问skype bing给的建议添加，230825
+DOMAIN-SUFFIX,skype-cdn.com
+DOMAIN-SUFFIX,skypeecs.com
+DOMAIN-SUFFIX,skypewebexperience.com
+DOMAIN-SUFFIX,skypeforbusiness.cn
+DOMAIN-SUFFIX,lync.com
